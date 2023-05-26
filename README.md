@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adirangel
-- 👀 I’m 29 year old DevOps engineer, B.Sc. Software Engineering.
+- 👀 I’m 30 year old DevOps engineer, B.Sc. Software Engineering.
 - 🌱 I’m currently learning multiple amazing tools like Terraform, Ansible, Swarm, Azure DevOps
 - 💞️ Knowladge with Docker, Helm, Chef, Terraform, Ansible, Swarm, K8s, OpenShift, Jenkins, CICD, Zabbix, JFrog, Nexus.
 - 📫 Reach me on E-mail adirangel2@gmail.com.
