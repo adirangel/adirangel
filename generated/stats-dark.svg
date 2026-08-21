@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub stats for adirangel">
+<rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="none" stroke="#3d59a1" stroke-opacity="0.6"/>
+<circle cx="22" cy="22" r="5.5" fill="#ff5f56"/>
+<circle cx="40" cy="22" r="5.5" fill="#ffbd2e"/>
+<circle cx="58" cy="22" r="5.5" fill="#27c93f"/>
+<text x="76" y="27" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#bf91f3">adirangel@devops:~$ <tspan fill="#38bdae">./stats.sh --live</tspan></text>
+<line x1="16" y1="38" x2="479" y2="38" stroke="#3d59a1" stroke-opacity="0.35"/>
+<text x="28" y="64" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13"><tspan fill="#38bdae">▸</tspan> <tspan fill="#a9b1d6">stars</tspan><tspan x="196" fill="#70a5fd" font-weight="bold">1</tspan><tspan x="262" fill="#38bdae">▸</tspan> <tspan fill="#a9b1d6">repos</tspan><tspan x="440" fill="#70a5fd" font-weight="bold">13</tspan></text>
+<text x="28" y="90" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13"><tspan fill="#38bdae">▸</tspan> <tspan fill="#a9b1d6">commits (1y)</tspan><tspan x="196" fill="#70a5fd" font-weight="bold">1,028</tspan><tspan x="262" fill="#38bdae">▸</tspan> <tspan fill="#a9b1d6">pull requests</tspan><tspan x="440" fill="#70a5fd" font-weight="bold">0</tspan></text>
+<text x="28" y="116" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13"><tspan fill="#38bdae">▸</tspan> <tspan fill="#a9b1d6">issues</tspan><tspan x="196" fill="#70a5fd" font-weight="bold">0</tspan><tspan x="262" fill="#38bdae">▸</tspan> <tspan fill="#a9b1d6">followers</tspan><tspan x="440" fill="#70a5fd" font-weight="bold">1</tspan></text>
+<clipPath id="bar"><rect x="28" y="150" width="439" height="8" rx="4"/></clipPath>
+<rect x="28.0" y="150" width="292.7" height="8" fill="#3572A5" clip-path="url(#bar)"/>
+<rect x="320.7" y="150" width="97.6" height="8" fill="#3178c6" clip-path="url(#bar)"/>
+<rect x="418.2" y="150" width="48.8" height="8" fill="#178600" clip-path="url(#bar)"/>
+<circle cx="32" cy="175" r="4" fill="#3572A5"/><text x="41" y="179" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#565f89">Python</text>
+<circle cx="109" cy="175" r="4" fill="#3178c6"/><text x="118" y="179" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#565f89">TypeScript</text>
+<circle cx="214" cy="175" r="4" fill="#178600"/><text x="223" y="179" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#565f89">C#</text>
+</svg>
