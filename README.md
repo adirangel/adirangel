@@ -27,11 +27,13 @@ metadata:
 spec:
   education: B.Sc. Software Engineering
   mission: "Automate everything. Let AI handle the boring parts."
-  currentlyLearning:
-    - Terraform
-    - Ansible
-    - Docker Swarm
-    - Azure DevOps
+  expertise:
+    - Kubernetes & OpenShift at scale
+    - CI/CD pipelines end-to-end
+    - Infrastructure as Code
+  runsOn: [coffee, clean pipelines, self-healing infra]
+  allergies: [manual work, snowflake servers, single points of failure]
+  philosophy: "If it happens twice - automate it."
   aiPowered: true   # every pipeline ships with an AI copilot
 status:
   phase: Running
@@ -204,8 +206,8 @@ flowchart LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adirangel/adirangel/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adirangel/adirangel/output/github-snake.svg" alt="github contribution grid snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adirangel/adirangel/output/github-snake-dark.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/adirangel/adirangel/output/github-snake.svg?v=1" alt="github contribution grid snake animation" />
 </picture>
 
 </div>
