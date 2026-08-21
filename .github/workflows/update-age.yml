@@ -1,0 +1,43 @@
+name: Update age
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily, so the age flips right on the birthday
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["README.md", ".github/workflows/update-age.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recalculate age in README
+        env:
+          TZ: Asia/Jerusalem
+        run: |
+          AGE=$(python3 -c "
+          from datetime import date
+          b = date(1993, 4, 7)
+          t = date.today()
+          print(t.year - b.year - ((t.month, t.day) < (b.month, b.day)))
+          ")
+          echo "Computed age: ${AGE}"
+          sed -i -E "s/^(  age: )[0-9]+/\1${AGE}/" README.md
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "Age unchanged - nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: bump age 🎂"
+          git push
