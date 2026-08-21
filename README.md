@@ -94,7 +94,6 @@ flowchart LR
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
       <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge" alt="Azure DevOps" />
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Semaphore-19A974?style=for-the-badge" alt="Semaphore" />
       <img src="https://img.shields.io/badge/GitOps-3F6EC6?style=for-the-badge" alt="GitOps" />
     </td>
   </tr>
@@ -103,6 +102,7 @@ flowchart LR
     <td>
       <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+      <img src="https://img.shields.io/badge/Ansible%20Semaphore-19A974?style=for-the-badge" alt="Ansible Semaphore" />
       <img src="https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white" alt="Chef" />
     </td>
   </tr>
