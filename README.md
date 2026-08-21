@@ -27,11 +27,13 @@ metadata:
 spec:
   education: B.Sc. Software Engineering
   mission: "Automate everything. Let AI handle the boring parts."
-  currentlyLearning:
-    - Terraform
-    - Ansible
-    - Docker Swarm
-    - Azure DevOps
+  expertise:
+    - Kubernetes & OpenShift at scale
+    - CI/CD pipelines end-to-end
+    - Infrastructure as Code
+  runsOn: [coffee, clean pipelines, self-healing infra]
+  allergies: [manual work, snowflake servers, single points of failure]
+  philosophy: "If it happens twice - automate it."
   aiPowered: true   # every pipeline ships with an AI copilot
 status:
   phase: Running
