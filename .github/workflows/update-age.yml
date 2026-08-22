@@ -20,10 +20,16 @@ jobs:
       - name: Recalculate age in README
         env:
           TZ: Asia/Jerusalem
+          BIRTH_DATE: ${{ secrets.BIRTH_DATE }}
         run: |
+          if [ -z "$BIRTH_DATE" ]; then
+            echo "::error::BIRTH_DATE secret is not set (expected YYYY-MM-DD). Add it under Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
           AGE=$(python3 -c "
+          import os
           from datetime import date
-          b = date(1993, 4, 7)
+          b = date.fromisoformat(os.environ['BIRTH_DATE'])
           t = date.today()
           print(t.year - b.year - ((t.month, t.day) < (b.month, b.day)))
           ")
