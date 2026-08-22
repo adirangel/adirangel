@@ -196,9 +196,16 @@ Live products, in production, used every day — by me and anyone who signs up:
       <a href="https://xpcharging.vercel.app/"><b>⚡ XPCharging</b></a>
       <br/><br/>
       <a href="https://xpcharging.vercel.app/"><img src="https://img.shields.io/badge/Live-xpcharging.vercel.app-27c93f?style=flat-square&logo=vercel&logoColor=white" alt="XPCharging live" /></a>
+      <br/><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/Angular%2021-0F0F11?style=flat-square&logo=angular&logoColor=white" alt="Angular 21" />
+        <img src="https://img.shields.io/badge/Vercel%20Serverless-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Serverless" />
+        <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
+        <img src="https://img.shields.io/badge/Supabase%20Auth-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Auth" />
+      </sub>
     </td>
     <td>
-      Tracks what my EV <i>really</i> costs — log charging sessions, see monthly and yearly electricity spend, and export it all to Excel. Multi-user: sign up, add your own car, start tracking.
+      Full-stack cost tracker for XPeng EV charging — log sessions, see monthly and yearly electricity spend, and export it all to Excel. Google OAuth sign-in on Supabase Auth, with seamless auto-migration for legacy bcrypt/JWT accounts. Bilingual EN/HE.
     </td>
   </tr>
   <tr>
