@@ -225,6 +225,25 @@ Live products, in production, used every day — by me and anyone who signs up:
       A daily-refreshed AI intelligence hub: seven scheduled scrapers track model launches, coding-tool releases, docs changes and GitHub activity across Anthropic, OpenAI, Google, xAI &amp; DeepSeek — self-healing pipeline where one broken source never takes down the rest. Plus a catalog of ~1,800 AI repos sorted into 15 use-case categories and an auto-synced commands guide per tool. Bilingual EN/HE with full RTL.
     </td>
   </tr>
+  <tr>
+    <td align="center" width="230">
+      <a href="https://github.com/adirangel/switch"><b>🖥️ ScreenSwitch</b></a>
+      <br/><br/>
+      <a href="https://github.com/adirangel/switch"><img src="https://img.shields.io/badge/Source-adirangel%2Fswitch-181717?style=flat-square&logo=github&logoColor=white" alt="ScreenSwitch source" /></a>
+      <br/>
+      <a href="https://github.com/adirangel/switch/actions/workflows/build.yml"><img src="https://github.com/adirangel/switch/actions/workflows/build.yml/badge.svg" alt="ScreenSwitch CI" /></a>
+      <br/><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" alt="C#" />
+        <img src="https://img.shields.io/badge/xUnit-5C2D91?style=flat-square" alt="xUnit" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </sub>
+    </td>
+    <td>
+      A software KVM in one keypress — Windows tray app that flips both monitors between two computers over DDC/CI, the same protocol behind the monitor's physical buttons. Global hotkey with a behavioral mid-game guard (detects fullscreen &amp; borderless games with no hardcoded list), headless CLI for Stream Deck bindings, and a single self-contained exe with zero runtime dependencies. Platform-neutral core, unit-tested on Linux CI.
+    </td>
+  </tr>
 </table>
 
 ## 📊 Stats
