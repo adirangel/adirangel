@@ -186,6 +186,40 @@ flowchart LR
   </tr>
 </table>
 
+## 🚀 Things I Built
+
+Live products, in production, used every day — by me and anyone who signs up:
+
+<table>
+  <tr>
+    <td align="center" width="230">
+      <a href="https://xpcharging.vercel.app/"><b>⚡ XPCharging</b></a>
+      <br/><br/>
+      <a href="https://xpcharging.vercel.app/"><img src="https://img.shields.io/badge/Live-xpcharging.vercel.app-27c93f?style=flat-square&logo=vercel&logoColor=white" alt="XPCharging live" /></a>
+    </td>
+    <td>
+      Tracks what my EV <i>really</i> costs — log charging sessions, see monthly and yearly electricity spend, and export it all to Excel. Multi-user: sign up, add your own car, start tracking.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="230">
+      <a href="https://aiupdater.vercel.app/"><b>🤖 AIUpdater</b></a>
+      <br/><br/>
+      <a href="https://aiupdater.vercel.app/"><img src="https://img.shields.io/badge/Live-aiupdater.vercel.app-27c93f?style=flat-square&logo=vercel&logoColor=white" alt="AIUpdater live" /></a>
+      <br/><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firestore" />
+        <img src="https://img.shields.io/badge/Vercel%20Cron-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Cron" />
+      </sub>
+    </td>
+    <td>
+      A daily-refreshed AI intelligence hub: seven scheduled scrapers track model launches, coding-tool releases, docs changes and GitHub activity across Anthropic, OpenAI, Google, xAI &amp; DeepSeek — self-healing pipeline where one broken source never takes down the rest. Plus a catalog of ~1,800 AI repos sorted into 15 use-case categories and an auto-synced commands guide per tool. Bilingual EN/HE with full RTL.
+    </td>
+  </tr>
+</table>
+
 ## 📊 Stats
 
 <div align="center">
