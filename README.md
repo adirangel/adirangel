@@ -251,12 +251,8 @@ Live products, in production, used every day — by me and anyone who signs up:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adirangel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=adirangel&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adirangel&theme=tokyonight&hide_border=true&background=00000000" />
-  <img src="https://streak-stats.demolab.com?user=adirangel&hide_border=true&background=00000000" alt="GitHub streak" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adirangel/adirangel/stats/github-stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adirangel/adirangel/stats/github-stats.svg" alt="GitHub stats" />
 </picture>
 
 </div>
