@@ -250,10 +250,7 @@ Live products, in production, used every day — by me and anyone who signs up:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adirangel/adirangel/stats/github-stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adirangel/adirangel/stats/github-stats.svg" alt="GitHub stats" />
-</picture>
+<img src="https://raw.githubusercontent.com/adirangel/adirangel/stats/github-metrics.svg" alt="GitHub metrics" width="480" />
 
 </div>
 
