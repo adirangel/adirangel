@@ -57,9 +57,9 @@ flowchart LR
         KG(["k8sgpt"])
     end
 
-    DEV["💻 Code & Config"] --> CI["🔧 CI<br/>Jenkins · Azure DevOps · GitHub Actions"]
+    DEV["💻 Code & Config"] --> CI["🔧 CI<br/>Jenkins · Azure DevOps<br/>GitHub Actions"]
     CI --> ART["📦 Artifacts<br/>JFrog · Nexus · Harbor"]
-    ART --> CD["🚀 Deploy<br/>K8s · OpenShift · RKE2<br/>Rancher · Helm · Ansible · ArgoCD"]
+    ART --> CD["🚀 Deploy<br/>K8s · OpenShift · RKE2<br/>Rancher · Helm · Ansible<br/>ArgoCD"]
     CD --> MON["📡 Monitor<br/>Zabbix · Prometheus<br/>Grafana · Splunk · ELK"]
     MON -- feedback --> DEV
 
