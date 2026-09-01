@@ -244,6 +244,29 @@ Live products, in production, used every day — by me and anyone who signs up:
       A software KVM in one keypress — Windows tray app that flips both monitors between two computers over DDC/CI, the same protocol behind the monitor's physical buttons. Global hotkey with a behavioral mid-game guard (detects fullscreen &amp; borderless games with no hardcoded list), headless CLI for Stream Deck bindings, and a single self-contained exe with zero runtime dependencies. Platform-neutral core, unit-tested on Linux CI.
     </td>
   </tr>
+  <tr>
+    <td align="center" width="230">
+      <a href="https://github.com/adirangel/Dashy"><b>📊 Dashy</b></a>
+      <br/><br/>
+      <a href="https://github.com/adirangel/Dashy"><img src="https://img.shields.io/badge/Source-adirangel%2FDashy-181717?style=flat-square&logo=github&logoColor=white" alt="Dashy source" /></a>
+      <br/>
+      <a href="https://github.com/adirangel/Dashy/actions/workflows/verify.yml"><img src="https://github.com/adirangel/Dashy/actions/workflows/verify.yml/badge.svg" alt="Dashy CI" /></a>
+      <br/>
+      <a href="https://github.com/adirangel/Dashy/releases/latest"><img src="https://img.shields.io/github/v/release/adirangel/Dashy?style=flat-square&logo=windows&logoColor=white&label=MSI&color=0078D6" alt="Dashy latest release" /></a>
+      <br/><br/>
+      <sub>
+        <img src="https://img.shields.io/badge/Tauri%202-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri 2" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </sub>
+    </td>
+    <td>
+      A local-first Windows side-notch for your AI &amp; dev accounts — a slim rail that hides just off the screen edge, reveals on hover, and shows Claude and Codex usage windows, GitHub streak, Grok credits and Cursor plan status as ring tiles with detail cards. No demo data, no pasted tokens: it reads the authenticated CLIs already on the machine, coalesces refreshes, and marks stale instead of faking zero. Rust controller for edge/fullscreen/DPI logic, React WebView UI, 8 locales with full RTL, ships as a single MSI.
+    </td>
+  </tr>
 </table>
 
 ## 📊 Stats
